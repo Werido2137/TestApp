@@ -24,5 +24,10 @@ namespace WpfApp4
         {
             InitializeComponent();
         }
+
+        private void Pawelski(int length)
+        {
+            //reeeeeeeeeeeeeeeee
+        }
     }
 }
